@@ -1,0 +1,20 @@
+[
+    {"date": "Feb 1, 2014", "close": "0","iserr":false},
+    {"date": "Feb 2, 2014", "close": "0","iserr":false},
+    {"date": "Feb 3, 2014", "close": "0","iserr":false},
+    {"date": "Feb 4, 2014", "close": "0","iserr":false},
+    {"date": "Feb 5, 2014", "close": "40","iserr":true},
+    {"date": "Feb 6, 2014", "close": "40","iserr":true},
+    {"date": "Feb 7, 2014", "close": "40","iserr":true},
+    {"date": "Feb 8, 2014", "close": "300","iserr":false},
+    {"date": "Feb 9, 2014", "close": "250","iserr":true},
+    {"date": "Feb 10, 2014", "close": "230","iserr":true},
+    {"date": "Feb 11, 2014", "close": "110","iserr":false},
+    {"date": "Feb 12, 2014", "close": "60","iserr":true},
+    {"date": "Feb 13, 2014", "close": "50","iserr":true},
+    {"date": "Feb 14, 2014", "close": "160","iserr":true}, 
+    {"date": "Feb 15, 2014", "close": "140","iserr":true}, 
+    {"date": "Feb 16, 2014", "close": "0","iserr":false}
+    
+
+]
